@@ -1,8 +1,3 @@
 <?php
-echo "Hola, este es mi primer ejemplo";
-echo "hola1";
-echo "Viva Bolivia";
-
-echo "Viva Bolivia 2";
-echo "Viva Bolivia 3";
+echo "Bienvenidos a Git";
 ?>
